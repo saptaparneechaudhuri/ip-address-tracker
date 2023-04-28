@@ -10,6 +10,6 @@ An ip address tracker app using react and redux toolkit query
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sage-puppy-ff6b11.netlify.app/]
+
 # ip-address-frontend-mentor
